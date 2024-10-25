@@ -5,7 +5,7 @@
 
 ## Qué es Tulky Devs
 
-### Tulky devs es una organización fundada por [Ferando (FernanApps)](https://github.com/FernanApps) y [Daniel Gómez (Less)](https://github.com/Less-dev), su objetivo es crear, enseñar y proveer software, usando tecnologías como kotlin, java, entre otras...
+### Tulky devs es una organización fundada por [Fernando (FernanApps)](https://github.com/FernanApps) y [Daniel Gómez (Less)](https://github.com/Less-dev), su objetivo es crear, enseñar y proveer software, usando tecnologías como kotlin, java, entre otras...
 
 <br>
 
